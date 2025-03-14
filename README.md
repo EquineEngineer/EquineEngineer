@@ -1,5 +1,5 @@
 # 💫 About Me:
-I make software, then remake it in Rust 🦀.<br>Will occasionally dab in Cybersecurity.<br>Talk Sumerian to me.<br><br>![horse-falling](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2IwM2t3MmxoaXc3dXYyNnpzMXZ5ZjNsaWJ5eHdtbTEzYjEwZHRmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12p3JXHJBgqqCk/giphy.gif)<br>
+I make software, then remake it in Rust 🦀<br>Will occasionally dab in Cybersecurity<br>Talk Sumerian to me<br><br>![horse-falling](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2IwM2t3MmxoaXc3dXYyNnpzMXZ5ZjNsaWJ5eHdtbTEzYjEwZHRmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12p3JXHJBgqqCk/giphy.gif)<br>
 
 
 # 💻 Tech Stack:
